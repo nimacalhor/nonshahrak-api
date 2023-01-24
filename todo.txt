@@ -1,0 +1,18 @@
+orders ✔
+daily orders ✔
+users ✔
+user orders ✔
+user daily orders ✔
+todays orders ✔
+tomorrow orders ✔
+
+month orders count ✔
+order type count ✔
+day repeated count ✔
+average price ✔
+
+admin schema
+
+sign up
+login
+authorization
